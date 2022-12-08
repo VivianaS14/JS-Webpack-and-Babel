@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=new class{getPhotos(){return["photo1"]}};console.log(o.getPhotos())})();
